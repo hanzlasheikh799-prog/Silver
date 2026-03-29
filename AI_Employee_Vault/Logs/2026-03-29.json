@@ -1,0 +1,273 @@
+[
+  {
+    "timestamp": "2026-03-29T11:22:27.461115",
+    "action_type": "email_received",
+    "actor": "gmail_watcher",
+    "parameters": {
+      "id": "19d3841fa4175fcb",
+      "subject": "Security alert",
+      "from": "Google <no-reply@accounts.google.com>"
+    },
+    "result": "queued"
+  },
+  {
+    "timestamp": "2026-03-29T11:32:01.528308",
+    "action_type": "email_received",
+    "actor": "gmail_watcher",
+    "parameters": {
+      "id": "19d37e50f2eb8e7a",
+      "subject": "Testing",
+      "from": "Royal Empire <eroyal874@gmail.com>"
+    },
+    "result": "queued"
+  },
+  {
+    "timestamp": "2026-03-29T11:35:34.136552",
+    "action_type": "email_received",
+    "actor": "gmail_watcher",
+    "parameters": {
+      "id": "19d384c9e209848d",
+      "subject": "Testing",
+      "from": "Huawei Android <huaweionetouchy3ll@gmail.com>"
+    },
+    "result": "queued"
+  },
+  {
+    "timestamp": "2026-03-29T11:37:35.103381",
+    "action_type": "email_received",
+    "actor": "gmail_watcher",
+    "parameters": {
+      "id": "19d384fe4705a189",
+      "subject": "test11",
+      "from": "Huawei Android <huaweionetouchy3ll@gmail.com>"
+    },
+    "result": "queued"
+  },
+  {
+    "timestamp": "2026-03-29T11:45:06.596158",
+    "action_type": "email_received",
+    "actor": "gmail_watcher",
+    "parameters": {
+      "id": "19d384fe4705a189",
+      "subject": "test11",
+      "from": "Huawei Android <huaweionetouchy3ll@gmail.com>"
+    },
+    "result": "queued"
+  },
+  {
+    "timestamp": "2026-03-29T11:45:07.266593",
+    "action_type": "email_received",
+    "actor": "gmail_watcher",
+    "parameters": {
+      "id": "19d384c9e209848d",
+      "subject": "Testing",
+      "from": "Huawei Android <huaweionetouchy3ll@gmail.com>"
+    },
+    "result": "queued"
+  },
+  {
+    "timestamp": "2026-03-29T11:45:07.915690",
+    "action_type": "email_received",
+    "actor": "gmail_watcher",
+    "parameters": {
+      "id": "19d3841fa4175fcb",
+      "subject": "Security alert",
+      "from": "Google <no-reply@accounts.google.com>"
+    },
+    "result": "queued"
+  },
+  {
+    "timestamp": "2026-03-29T12:08:30.781338",
+    "action_type": "email_received",
+    "actor": "gmail_watcher",
+    "parameters": {
+      "id": "19d386ab04dfdbf0",
+      "subject": "test12",
+      "from": "Huawei Android <huaweionetouchy3ll@gmail.com>"
+    },
+    "result": "queued"
+  },
+  {
+    "timestamp": "2026-03-29T12:27:53.489358",
+    "action_type": "email_received",
+    "actor": "gmail_watcher",
+    "parameters": {
+      "id": "19d387107e316e59",
+      "subject": "No Subject",
+      "from": "huaweionetouchy3ll@gmail.com"
+    },
+    "result": "queued"
+  },
+  {
+    "timestamp": "2026-03-29T12:28:14.281445",
+    "action_type": "email_auto_reply",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "test12",
+      "from": "Huawei Android <huaweionetouchy3ll@gmail.com>",
+      "to": "huaweionetouchy3ll@gmail.com"
+    },
+    "result": "sent"
+  },
+  {
+    "timestamp": "2026-03-29T12:28:22.326250",
+    "action_type": "email_auto_reply",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "No Subject",
+      "from": "huaweionetouchy3ll@gmail.com",
+      "to": "huaweionetouchy3ll@gmail.com"
+    },
+    "result": "sent"
+  },
+  {
+    "timestamp": "2026-03-29T12:29:31.924771",
+    "action_type": "email_auto_reply",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "Hi there!",
+      "from": "Ali Khan <ali@example.com>",
+      "to": "ali@example.com"
+    },
+    "result": "sent"
+  },
+  {
+    "timestamp": "2026-03-29T12:29:31.927905",
+    "action_type": "email_hitl",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "Invoice #1234 - Payment Query",
+      "from": "Sara Ahmed <sara@client.com>"
+    },
+    "result": "pending_approval"
+  },
+  {
+    "timestamp": "2026-03-29T12:30:16.649000",
+    "action_type": "email_auto_reply",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "Hi there!",
+      "from": "Ali Khan <ali@example.com>",
+      "to": "ali@example.com"
+    },
+    "result": "sent"
+  },
+  {
+    "timestamp": "2026-03-29T12:30:16.651406",
+    "action_type": "email_hitl",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "Invoice #1234 payment",
+      "from": "Sara Ahmed <sara@client.com>"
+    },
+    "result": "pending_approval"
+  },
+  {
+    "timestamp": "2026-03-29T12:31:29.124812",
+    "action_type": "email_auto_reply",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "Hi there!",
+      "from": "Ali Khan <ali@example.com>",
+      "to": "ali@example.com"
+    },
+    "result": "sent"
+  },
+  {
+    "timestamp": "2026-03-29T12:31:29.127078",
+    "action_type": "email_hitl",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "Invoice #1234 payment",
+      "from": "Sara Ahmed <sara@client.com>"
+    },
+    "result": "pending_approval"
+  },
+  {
+    "timestamp": "2026-03-29T12:31:48.959988",
+    "action_type": "email_auto_reply",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "Hi there!",
+      "from": "Ali Khan <ali@example.com>",
+      "to": "ali@example.com"
+    },
+    "result": "sent"
+  },
+  {
+    "timestamp": "2026-03-29T12:54:03.720942",
+    "action_type": "email_auto_reply",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "About your company",
+      "from": "John Smith <john@example.com>",
+      "to": "john@example.com"
+    },
+    "result": "sent"
+  },
+  {
+    "timestamp": "2026-03-29T12:54:04.042575",
+    "action_type": "email_auto_reply",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "About your company",
+      "from": "John Smith <john@example.com>",
+      "to": "john@example.com"
+    },
+    "result": "sent"
+  },
+  {
+    "timestamp": "2026-03-29T12:54:11.882392",
+    "action_type": "email_auto_reply",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "IoT question",
+      "from": "Maria <maria@example.com>",
+      "to": "maria@example.com"
+    },
+    "result": "sent"
+  },
+  {
+    "timestamp": "2026-03-29T12:54:13.069718",
+    "action_type": "email_auto_reply",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "IoT question",
+      "from": "Maria <maria@example.com>",
+      "to": "maria@example.com"
+    },
+    "result": "sent"
+  },
+  {
+    "timestamp": "2026-03-29T12:54:13.072701",
+    "action_type": "email_hitl",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "Invoice payment details",
+      "from": "Client <client@business.com>"
+    },
+    "result": "pending_approval"
+  },
+  {
+    "timestamp": "2026-03-29T12:54:34.620917",
+    "action_type": "email_auto_reply",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "About your company",
+      "from": "John Smith <john@example.com>",
+      "to": "john@example.com"
+    },
+    "result": "sent"
+  },
+  {
+    "timestamp": "2026-03-29T13:16:43.967187",
+    "action_type": "email_auto_reply",
+    "actor": "email_processor",
+    "parameters": {
+      "subject": "What is the name of the company? When was NexaTech founded?",
+      "from": "Ali Raza <aliraza@example.com>",
+      "to": "aliraza@example.com"
+    },
+    "result": "sent"
+  }
+]
